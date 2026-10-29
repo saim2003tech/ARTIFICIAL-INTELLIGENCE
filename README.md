@@ -49,8 +49,8 @@ Run Locally (Optional)
 Ensure Python 3 is installed, then clone the repository:
 
 bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/saim2003tech/ARTIFICIAL-INTELLIGENCE.git
+%cd ARTIFICIAL-INTELLIGENCE
 
 
 Open the .ipynb notebook in Jupyter Notebook or Visual Studio Code.
